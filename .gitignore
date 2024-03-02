@@ -7,7 +7,7 @@ node_modules/
 .env
 
 # Ignore build folder
-/public
+/public/bundle.js
 /build
 
 # Ignore logs
