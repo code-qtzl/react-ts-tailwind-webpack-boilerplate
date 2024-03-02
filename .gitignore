@@ -7,7 +7,7 @@ node_modules/
 .env
 
 # Ignore build folder
-/dist
+/public
 /build
 
 # Ignore logs
