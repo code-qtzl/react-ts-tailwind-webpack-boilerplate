@@ -1,4 +1,4 @@
-# Boileplate for React, Typescript, Tailwind, Webpack
+# Starter boilerplate for React, Typescript, Tailwind, and Webpack
 
 ## Description
 
