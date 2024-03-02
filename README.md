@@ -1,45 +1,49 @@
-# Tenzies
+# Boileplate for React, Typescript, Tailwind, Webpack
 
 ## Description
 
-Tenzies is a fun and fast-paced dice game built with React. The goal of the game is to roll ten dice until all of them display the same number. Players can freeze individual dice to keep them between rolls, strategizing to achieve Tenzies!
+This boilerplate provides a foundation for building modern React applications with TypeScript, Tailwind CSS, and Webpack.
+
+## Prerequisites
+
+Node.js and npm (or yarn) installed on your system.
 
 ## Features
 
-Simple and engaging gameplay
-Ability to hold dice for strategic rolls
-Confetti celebration for winners!
+-   React: Utilizes the latest React library for building user interfaces.
+-   TypeScript: Enhances code maintainability and type safety with TypeScript.
+-   Tailwind CSS: Provides a utility-first approach to styling your components.
+-   Webpack: Manages the bundling process for your JavaScript, CSS, and other assets.
 
 ## Tools Used
 
 -   React
--   JavaScript
--   Nano ID (for generating unique dice IDs)
--   React Confetti (for victory celebrations)
--   Tailwind CSS (for styling)
-
-## Controls
-
-Click on a die to hold/unhold it.
-Click the "Roll" button to roll all unheld dice.
-Click the "Start Game" button to begin a new game.
+-   JavaScript/Typescript
+-   Tailwind CSS
+-   Webpack
 
 ## Installation
 
 1. Clone this Repository:
 
     ```
-    git clone https://github.com/code-qtzl/tenzi.git
+    git clone https://github.com/code-qtzl/react-ts-tailwind-webpack-boilerplate.git
     ```
 
 2. Install dependencies:
 
     ```
-    cd tenzi-game
+    cd react-ts-tailwind-webpack-boilerplate
     npm install
     ```
 
-3. Run the app:
+3. Build the app:
+
+    ```
+    npm run build
+    ```
+
+4. Run the app:
 
     ```
     npm start
@@ -47,7 +51,7 @@ Click the "Start Game" button to begin a new game.
 
 ## Contributing
 
-We welcome contributions to Tenzies! Please feel free to submit pull requests or open issues for any suggestions or bug fixes.
+Goal is to keep adding to this
 
 ## License
 
