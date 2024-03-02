@@ -15,13 +15,6 @@ Node.js and npm (or yarn) installed on your system.
 -   Tailwind CSS: Provides a utility-first approach to styling your components.
 -   Webpack: Manages the bundling process for your JavaScript, CSS, and other assets.
 
-## Tools Used
-
--   React
--   JavaScript/Typescript
--   Tailwind CSS
--   Webpack
-
 ## Installation
 
 1. Clone this Repository:
